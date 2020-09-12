@@ -10,15 +10,18 @@
 
 THIS IS AN ALTERED VERSION OF TEdit!
 
-The official TEdit is here: https://github.com/TEdit/Terraria-Map-Editor/releases
+The 'official' TEdit is here: https://github.com/TEdit/Terraria-Map-Editor/releases
 
-This version replaces the 'Replace All'plugin with a 'Randomize all Tiles';
+This version replaces the 'Replace All'plugin with a 'Randomize all Tiles' one instead;
 
 The plugin essentially changes the world's 'tile palette'.
 
 In short, it automates the world process found in this video here:
 
 https://www.youtube.com/watch?v=jdv0vSMcSoE&ab_channel=WandofSparking
+
+#Original README:
+
 TEdit - Terraria Map Editor is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint!
 
 
